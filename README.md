@@ -81,22 +81,20 @@
 
 <h2>Certificações</h2>
 <ul>
-<ul>
   <li>EF SET English Certificate (B1 Intermediate)</li>
   <li>Boas Práticas de Cibersegurança (Cybersecurity Awareness)</li>
   <li>Big Data e Inteligência Artificial: O Poder dos Dados</li>
   <li>Indústria 4.0: Inteligência Artificial e Aprendizado de Máquina</li>
   <li>Fundamentos da Ciência de Dados: Mineração de Dados</li>
 </ul>
-</ul>
 
 <h2>Skills Técnicas</h2>
 <ul>
-  <li>Python, Bash, VBA</li>
-  <li>Linux (CLI, Permissões, Administração)</li>
-  <li>SAS, SQL</li>
-  <li>Power BI, Dashboards Analíticos</li>
-  <li>Metasploit, Nmap, Burp Suite, SQLmap, ffuf, John The Ripper, Hashcat</li>
-  <li>OWASP Top 10, CVE</li>
-  <li>Cybersecurity Tools, ISO 27001</li>
+<li>Python, Bash, VBA</li>
+ <li>Linux (CLI, Permissões, Administração)</li>
+ <li>SAS, SQL</li>
+ <li>Power BI, Dashboards Analíticos</li>
+ <li>Metasploit, Nmap, Burp Suite, SQLmap, ffuf, John The Ripper, Hashcat</li>
+ <li>OWASP Top 10, CVE</li>
+ <li>Cybersecurity Tools, ISO 27001</li>
 </ul>
