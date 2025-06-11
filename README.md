@@ -5,7 +5,7 @@
 </p>
 <h2>Sobre Mim</h2>
 <p>
-  Desenvolvedor Python com forte background em automação de processos e análise de dados, migrando para Cybersecurity.
+  Desenvolvedor Python e de VBA com forte background em automação de processos e análise de dados, migrando para Cybersecurity.
   Já completei 60+ labs no TryHackMe (paths: Pre-Security, Cyber-Security 101, Web Fundamentals) e desenvolvi scripts de varredura em Python.
   Busco posição de Analista de Segurança para aplicar técnicas de pentest, análise de vulnerabilidades e automação de testes.
 </p>
