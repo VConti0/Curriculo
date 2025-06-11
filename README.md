@@ -1,9 +1,7 @@
 <h1>Vicenzo C Conti</h1>
 <p>
-  <a href="https://www.linkedin.com/in/vicenzocconti">LinkedIn</a> ·
-  <a href="https://github.com/seuusuario">GitHub</a> ·
-  <a href="mailto:vicenzoccontioo@gmail.com">vicenzoccontioo@gmail.com</a> ·
-  📞 (11) 96712-7644
+  <a href="https://www.linkedin.com/in/vicenzocconti">LinkedIn</a>
+  <a href="https://github.com/seuusuario">GitHub</a>
 </p>
 <h2>Sobre Mim</h2>
 <p>
