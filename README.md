@@ -6,7 +6,7 @@
 <h2>Sobre Mim</h2>
 <p>
   Desenvolvedor Python e de VBA com forte background em automação de processos e análise de dados, migrando para Cybersecurity.
-  Já completei 60+ labs no TryHackMe (paths: Pre-Security, Cyber-Security 101, Web Fundamentals) e desenvolvi scripts de varredura em Python.
+  Já completei 30+ labs no TryHackMe (paths: Pre-Security, Cyber-Security 101, Web Fundamentals) e desenvolvi scripts de varredura em Python.
   Busco posição de Analista de Segurança para aplicar técnicas de pentest, análise de vulnerabilidades e automação de testes.
 </p>
 
@@ -51,7 +51,7 @@
 
 <h2>Projetos de Segurança</h2>
 <ul>
-  <li>TryHackMe: Completado 60+ labs in Jr. Pentester & Offensive Pentesting paths</li>
+  <li>TryHackMe: Completado 30+ labs in Jr. Pentester & Offensive Pentesting paths</li>
   <li>CTFs e VMs caseiras: Reconhecimento, Exploração, Escalação de Privilégios</li>
 </ul>
 
