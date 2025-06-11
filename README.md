@@ -1,7 +1,7 @@
 <h1>Vicenzo C Conti</h1>
 <p>
-  <a href="https://www.linkedin.com/in/vicenzocconti">LinkedIn</a>
-  <a href="https://github.com/seuusuario">GitHub</a>
+  <a href="https://www.linkedin.com/in/vicenzocconti">Linkedin</a>
+  <a href="https://github.com/VConti0">GitHub</a>
 </p>
 <h2>Sobre Mim</h2>
 <p>
