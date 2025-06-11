@@ -13,8 +13,8 @@
 <h2>Experiência Profissional</h2>
   <ul>
   <li>
-    <strong>KPMG Brasil – Administrative Analyst</strong><br>
-    <em>Mar/2024 – Presente</em>
+    <strong>KPMG Brasil – Analista Administrativo Jr.</strong><br>
+    <em>Mar/2024 – Atualmente</em>
     <ul>
       <li>Otimização de processos administrativos via organização de fluxo de e-mails e automação.</li>
       <li>Desenvolvimento de scripts VBA em Excel para automação de tarefas.</li>
@@ -22,7 +22,7 @@
     </ul>
   </li>
   <li>
-    <strong>KPMG Brasil – Administrative Assistant</strong><br>
+    <strong>KPMG Brasil – Assistente Administrativo</strong><br>
     <em>Mar/2024 – Out/2024</em>
     <ul>
       <li>Automatização de workflows de e-mail, aprimorando processos internos.</li>
@@ -51,8 +51,8 @@
 
 <h2>Projetos de Segurança</h2>
 <ul>
-  <li>TryHackMe: Completed 60+ labs in Jr. Pentester & Offensive Pentesting paths</li>
-  <li>CTFs e VMs caseiras: Reconnaissance, Exploitation, Privilege Escalation</li>
+  <li>TryHackMe: Completado 60+ labs in Jr. Pentester & Offensive Pentesting paths</li>
+  <li>CTFs e VMs caseiras: Reconhecimento, Exploração, Escalação de Privilégios</li>
 </ul>
 
 <h2>Educação</h2>
