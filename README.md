@@ -2,6 +2,8 @@
 <p>
   <a href="https://www.linkedin.com/in/vicenzocconti">Linkedin</a>
   <a href="https://github.com/VConti0">GitHub</a>
+  <p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Jumba.png" alt="Your Image Badge" />
 </p>
 <h2>Sobre Mim</h2>
 <p>
